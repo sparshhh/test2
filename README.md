@@ -1,3 +1,3 @@
 # Student portfolio
 
-Hey, I am Sparsh. Just getting started with programing.
+Hey, I am Sparsh Agarwal. Just getting started with programing.
